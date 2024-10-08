@@ -23,3 +23,7 @@ A simple Node.js application that uses Selenium WebDriver to scrape tweets from 
    ```bash
    https://github.com/madhaa17/tweet-scrape.git
    cd tweet-scrape
+2. Install the required dependencies:
+   
+   ```bash
+   npm install
