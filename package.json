@@ -1,0 +1,17 @@
+{
+  "name": "x-node-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^129.0.2",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
